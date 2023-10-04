@@ -6,4 +6,4 @@
 
  
 
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash4Tech&theme=radical&hide_border=true" alt="Ponneelan" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash4Tech&theme=radical&hide_border=true" alt="Akash" /></div>
